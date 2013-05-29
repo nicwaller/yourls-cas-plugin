@@ -4,7 +4,7 @@ This plugin for [YOURLS](https://github.com/YOURLS/YOURLS) enables the use of [C
 
 Installation
 ------------
-1. Download phpCAS and give your webserver (eg. Apache) read permissions on it
+1. [Download phpCAS](https://github.com/nicwaller/yourls-cas-plugin/tags) and give your webserver (eg. Apache) read permissions on it
 1. Download the latest release of yourls-cas-plugin.
 1. Copy the plugin folder into your user/plugins folder for YOURLS.
 1. Set up the parameters for phpCAS (details below)
